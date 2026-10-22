@@ -1,0 +1,11 @@
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\bin\Debug\Student_information.exe.config
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\bin\Debug\Student_information.exe
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\bin\Debug\Student_information.pdb
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\obj\Debug\Student_information.csproj.AssemblyReference.cache
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\obj\Debug\Student_information.Form1.resources
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\obj\Debug\Student_information.Properties.Resources.resources
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\obj\Debug\Student_information.csproj.GenerateResource.cache
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\obj\Debug\Student_information.csproj.CoreCompileInputs.cache
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\obj\Debug\Student_information.exe
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\obj\Debug\Student_information.pdb
+C:\Users\shire\Desktop\C# Assigment\Student_information\Student_information\obj\Debug\Student_information.exe.config
