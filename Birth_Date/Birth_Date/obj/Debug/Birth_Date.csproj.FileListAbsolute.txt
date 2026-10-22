@@ -1,0 +1,5 @@
+C:\Users\shire\Desktop\C# Assigment\Birth_Date\Birth_Date\obj\Debug\Birth_Date.csproj.AssemblyReference.cache
+C:\Users\shire\Desktop\C# Assigment\Birth_Date\Birth_Date\obj\Debug\Birth_Date.Form1.resources
+C:\Users\shire\Desktop\C# Assigment\Birth_Date\Birth_Date\obj\Debug\Birth_Date.Properties.Resources.resources
+C:\Users\shire\Desktop\C# Assigment\Birth_Date\Birth_Date\obj\Debug\Birth_Date.csproj.GenerateResource.cache
+C:\Users\shire\Desktop\C# Assigment\Birth_Date\Birth_Date\obj\Debug\Birth_Date.csproj.CoreCompileInputs.cache
